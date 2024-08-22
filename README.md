@@ -1,5 +1,5 @@
 # Sales-Data-Visualization-Dashboard
-## Overview
+
 
 This project visualizes sales data using Python libraries `pandas` and `matplotlib`. It reads sales data from an Excel file and generates two types of charts: a line chart showing sales trends over time and a bar chart displaying sales by product.
 
