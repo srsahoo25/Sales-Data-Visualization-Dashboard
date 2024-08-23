@@ -13,7 +13,7 @@ plt.ylabel('Sales')  # Label the y-axis as 'Sales'
 plt.grid(True)  # Enable the grid for better readability
 plt.xticks(rotation=45)  # Rotate x-axis labels by 45 degrees for better visibility
 plt.tight_layout()  # Adjust the layout to ensure nothing is cut off
-plt.savefig('sales_trend.png')  # Save the chart as a PNG image file
+plt.savefig('C:\\Users\\91628\\Desktop\\Sales Data Visualization Dashboard\\line_graph.png')  # Save the chart as a PNG image file in the desired location.
 plt.show()  # Display the chart on the screen
 
 # Example 2: Bar chart for visualizing sales by product
@@ -24,5 +24,5 @@ plt.xlabel('Product')  # Label the x-axis as 'Product'
 plt.ylabel('Sales')  # Label the y-axis as 'Sales'
 plt.xticks(rotation=45)  # Rotate x-axis labels by 45 degrees for better visibility
 plt.tight_layout()  # Adjust the layout to ensure nothing is cut off
-plt.savefig('C:\\Users\\91628\\Desktop\\Sales Data Visualization Dashboard')  # Save the bar chart as a PNG image file
+plt.savefig('C:\\Users\\91628\\Desktop\\Sales Data Visualization Dashboard\\bar_graph.png')  # Save the bar chart as a PNG image file in the desired location.
 plt.show()  # Display the bar chart on the screen
