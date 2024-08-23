@@ -24,5 +24,5 @@ plt.xlabel('Product')  # Label the x-axis as 'Product'
 plt.ylabel('Sales')  # Label the y-axis as 'Sales'
 plt.xticks(rotation=45)  # Rotate x-axis labels by 45 degrees for better visibility
 plt.tight_layout()  # Adjust the layout to ensure nothing is cut off
-plt.savefig('sales_by_product.png')  # Save the bar chart as a PNG image file
+plt.savefig('C:\\Users\\91628\\Desktop\\Sales Data Visualization Dashboard')  # Save the bar chart as a PNG image file
 plt.show()  # Display the bar chart on the screen
